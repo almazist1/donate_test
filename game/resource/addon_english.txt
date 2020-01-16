@@ -1,0 +1,16 @@
+"lang"
+{
+	"Language"		"english"
+	"Tokens"
+	{		
+
+		"addon_game_name"							"TEST ADDON"
+		"DOTA_GameMode_15"	                        "TEST ADDON"
+		"game_mode_15"				                "TEST ADDON"
+		"DOTA_GoodGuys"                             "TESTER"
+
+		"donate_list_name_heroes"		"Consumables"
+		"donate_list_name_artifacts"	"Artefacts"
+		"donate_button_text"			"Patreon"
+	}	
+}
